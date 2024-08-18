@@ -1,6 +1,6 @@
 # RenzDash: Modern Admin Dashboard Template
 
-**RenzDash** is a planned admin dashboard template built with modern web technologies, including Bootstrap 5.3.3, JavaScript, HTML5, and CSS3.
+**RenzDash** is an admin dashboard template built with modern web technologies, including Bootstrap 5.3.3, JavaScript, HTML5, and CSS3.
 
 ## Project Status
 
@@ -15,5 +15,4 @@
 
 ## License
 
-This project is licensed under Portbyte Technologies.
-
+This project is licensed under [Portbyte Technologies](https://portbyte.id).
