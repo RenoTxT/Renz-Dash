@@ -9,9 +9,7 @@
 ## Technologies
 
 - **Bootstrap 5.3.3**: For a responsive and consistent layout.
-- **JavaScript**: For interactivity and dynamic features.
-- **HTML5**: For semantic structure.
-- **CSS3**: For styling and visual design.
+- **Vue.js**: For funtion and design.
 
 ## License
 
